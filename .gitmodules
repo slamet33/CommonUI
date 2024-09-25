@@ -1,0 +1,3 @@
+[submodule "CommonUI"]
+	path = CommonUI
+	url = https://github.com/slamet33/CommonUI.git
