@@ -1,0 +1,22 @@
+{
+  "name": "CommonUI",
+  "version": "0.1.0",
+  "summary": "A short description of CommonUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/slametnoble/CommonUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "slametnoble": "slamet.riyadi@noble-software.com"
+  },
+  "source": {
+    "git": "https://github.com/slametnoble/CommonUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CommonUI/Classes/**/*"
+}
