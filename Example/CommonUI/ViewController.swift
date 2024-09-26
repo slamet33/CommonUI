@@ -8,13 +8,15 @@
 
 import UIKit
 import Resource
+import SDWebImage
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(Colors.lightSecondaryLabel)
+        let imgView = UIImageView()
+        imgView.sd_setImage(with: URL(string: "")!)
     }
 
 

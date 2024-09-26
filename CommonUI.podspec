@@ -11,5 +11,6 @@ s.swift_version = '5.0'
 s.source_files = 'CommonUI/**/*.{swift}'
 
 s.dependency 'Resource'
+s.dependency 'SDWebImage'
 
 end
